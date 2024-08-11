@@ -1,0 +1,14 @@
+/Applications/Document /Learning Unity/numbertotext/bin/Debug/net8.0/numbertotext
+/Applications/Document /Learning Unity/numbertotext/bin/Debug/net8.0/numbertotext.deps.json
+/Applications/Document /Learning Unity/numbertotext/bin/Debug/net8.0/numbertotext.runtimeconfig.json
+/Applications/Document /Learning Unity/numbertotext/bin/Debug/net8.0/numbertotext.dll
+/Applications/Document /Learning Unity/numbertotext/bin/Debug/net8.0/numbertotext.pdb
+/Applications/Document /Learning Unity/numbertotext/obj/Debug/net8.0/numbertotext.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Document /Learning Unity/numbertotext/obj/Debug/net8.0/numbertotext.AssemblyInfoInputs.cache
+/Applications/Document /Learning Unity/numbertotext/obj/Debug/net8.0/numbertotext.AssemblyInfo.cs
+/Applications/Document /Learning Unity/numbertotext/obj/Debug/net8.0/numbertotext.csproj.CoreCompileInputs.cache
+/Applications/Document /Learning Unity/numbertotext/obj/Debug/net8.0/numbertotext.dll
+/Applications/Document /Learning Unity/numbertotext/obj/Debug/net8.0/refint/numbertotext.dll
+/Applications/Document /Learning Unity/numbertotext/obj/Debug/net8.0/numbertotext.pdb
+/Applications/Document /Learning Unity/numbertotext/obj/Debug/net8.0/numbertotext.genruntimeconfig.cache
+/Applications/Document /Learning Unity/numbertotext/obj/Debug/net8.0/ref/numbertotext.dll
